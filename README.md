@@ -1,6 +1,6 @@
 # AddMyID
 
-Primeiro porjeto. Leitor e gerador de QRCode.
+Leitor e gerador de QRCode.
 
 ## Getting Started
 
